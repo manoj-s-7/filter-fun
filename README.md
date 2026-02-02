@@ -83,7 +83,6 @@ filter-fun/
 **Manoj S**  
 📧 [manojcs6317@gmail.com](mailto:manojcs6317@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/manoj-s-corex7)  
-📸 [Instagram](https://www.instagram.com/white._.hatx7)
 
 ---
 
