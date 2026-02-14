@@ -69,15 +69,6 @@ filter-fun/
 
 ---
 
-## 📌 TODO / Future Ideas
-
-- [ ] Add sepia and invert filters
-- [ ] Enable image download after applying filter
-- [ ] Drag-and-drop support
-- [ ] Touch gesture support for mobile
-
----
-
 ## 👨‍💻 Author
 
 **Manoj S**  
