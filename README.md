@@ -52,16 +52,6 @@ filter-fun/
 - **CSS3** (with animated RGB border)
 - **JavaScript (ES6)**
 - **SimpleImage.js** (by Duke University)
-
----
-
-## 🧠 Learnings
-
-- JavaScript DOM manipulation with canvas
-- Real-time image editing in-browser
-- Responsive and aesthetic UI design
-- Applying creative visual effects
-
 ---
 
 ## 👨‍💻 Author
