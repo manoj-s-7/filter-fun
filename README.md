@@ -18,11 +18,6 @@
 
 ---
 
-## 📸 Live Demo
-
-👉 [Click here to try it live](https://manoj-sys-core.github.io/filter-fun/)
-
----
 
 ## 🔧 How It Works
 
